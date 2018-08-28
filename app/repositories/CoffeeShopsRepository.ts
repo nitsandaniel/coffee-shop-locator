@@ -1,6 +1,6 @@
 import parse from "csv-parse";
-import uuid = require("uuid");
 import {ReadStream} from "fs";
+import uuid = require("uuid");
 
 
 export class CoffeeShopsRepository {
